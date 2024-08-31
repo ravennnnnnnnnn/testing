@@ -1,0 +1,40 @@
+span {
+    font-size: 150px;
+}
+
+.container {
+    padding-left: 400px;
+}
+
+.search-button {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+    border: none;
+    padding-right: 150px;
+    width: 393px;
+    margin-left: 340px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 7px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+}
+
+.container-two {
+    margin-bottom: 30px;
+}
+
+.google-button {
+    margin-right: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.container-three {
+    padding-left: 500px;
+}
+
+.feeling-button {
+    padding: 10px;
+    border: none;
+}
